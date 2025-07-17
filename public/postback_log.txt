@@ -1,0 +1,15 @@
+Click ID: 6e5ea37zwe54
+Postback URL: https://hornybull.in/postback?cid=6e5ea37zwe54&payout=0
+Redirecting to: thank.php?first_name=test&phone=test&click_id=6e5ea37zwe54
+Click ID: fcc5a37d59ad
+Postback URL: https://hornybull.in/postback?cid=fcc5a37d59ad&payout=0
+Redirecting to: thank.php?first_name=v&phone=v&click_id=fcc5a37d59ad
+Click ID: df5f237sy8da
+Postback URL: https://hornybull.in/postback?cid=df5f237sy8da&payout=0
+Redirecting to: thank.php?first_name=vv&phone=vv&click_id=df5f237sy8da
+Click ID: 391be37x9ae0
+Postback URL: https://hornybull.in/postback?cid=391be37x9ae0&payout=0
+Redirecting to: thank.php?first_name=test&phone=test&click_id=391be37x9ae0
+Click ID: ec607bgojbeb
+Postback URL: https://hornybull.in/postback?cid=ec607bgojbeb&payout=0
+Redirecting to: thank.php?first_name=hi&phone=hi&click_id=ec607bgojbeb
