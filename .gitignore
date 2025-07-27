@@ -1,0 +1,73 @@
+# --------------------
+# OS Generated Files
+# --------------------
+.DS_Store
+Thumbs.db
+
+# --------------------
+# Composer dependencies
+# --------------------
+vendor/
+
+# --------------------
+# Node dependencies (if using npm or yarn)
+# --------------------
+node_modules/
+
+# --------------------
+# Environment & Config
+# --------------------
+.env
+.env.*.local
+*.local
+*.env.php
+
+# --------------------
+# Logs & Caches
+# --------------------
+*.log
+*.cache
+*.tmp
+cache/
+tmp/
+storage/logs/
+storage/framework/cache/
+storage/framework/sessions/
+storage/framework/views/
+
+# --------------------
+# IDE / Editor files
+# --------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# --------------------
+# PHPUnit
+# --------------------
+phpunit.xml
+phpunit.result.cache
+
+# --------------------
+# Laravel specific (if using Laravel)
+# --------------------
+bootstrap/cache/
+public/storage
+storage/*.key
+
+# --------------------
+# Build/Dist Files
+# --------------------
+dist/
+build/
+
+# --------------------
+# Misc
+# --------------------
+*.bak
+*.swp
+*.orig
+*.gz
+*.zip
+*.tar
