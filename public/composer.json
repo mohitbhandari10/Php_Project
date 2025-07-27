@@ -1,0 +1,17 @@
+{
+    "name": "bhandari-7/public",
+    "autoload": {
+        "psr-4": {
+            "Bhandari7\\Public\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohitbhandari10",
+            "email": "isavitar10@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
