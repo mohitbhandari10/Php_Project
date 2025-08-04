@@ -1,0 +1,18 @@
+.image_list{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.image_list img,
+.image_list svg{
+  width: 120px;
+  margin: 0 15px;
+}
+@media screen and (max-width: 480px) {
+  .image_list img,
+  .image_list svg{
+    width: 65px;
+    margin: 0 5px;
+  }
+}
